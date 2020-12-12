@@ -1,0 +1,98 @@
+[
+  {
+    "id": "e1c06a0f-59d2-49be-8ab9-9ecb37f2f41f",
+    "data": [
+      {
+        "text": "นอนไม่ค่อยหลับ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b982837-26b8-4b92-8005-ef54c26bf300",
+    "data": [
+      {
+        "text": "นอนไม่หลับ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4175b464-edc5-4e34-9a73-3726b6c17309",
+    "data": [
+      {
+        "text": "หลับไม่ลง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fd79ca2-4c6d-419b-8bee-b53d3568a318",
+    "data": [
+      {
+        "text": "ฉันนอนไม่หลับ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f6f1efa-0982-49eb-8c5d-e541886747ce",
+    "data": [
+      {
+        "text": "นอนไม่หลับเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40e7c9f6-b529-46e9-9a4b-2ce667685367",
+    "data": [
+      {
+        "text": "ฉันเป็นโรคนอนไม่หลับ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ed6bee3-201c-49d0-bcb0-924ab0939656",
+    "data": [
+      {
+        "text": "ไม่ได้นอนเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "653dc898-b78e-46b0-99d4-83ce4d013fce",
+    "data": [
+      {
+        "text": "ฉันไม่ง่วง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c7bf5156-b105-4afb-8aa1-d1c4fbd1c387",
+    "data": [
+      {
+        "text": "ฉันดูเป็นไงบ้าง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bce0030-4455-45ee-94c1-62d9320f72f2",
+    "data": [
+      {
+        "text": "เห็นไหมว่าฉันหน้าตายังไง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b99f073-4607-4d5a-aaa6-bae98fad769a",
+    "data": [
+      {
+        "text": "คิดว่าฉันหน้าตายังไง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "600eecd1-11f4-4025-b3d6-71bc9dcbfdeb",
+    "data": [
+      {
+        "text": "ฉันดูเป็นไง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0001fc2-219d-4ff7-92f4-3194ab795ac9",
+    "data": [
+      {
+        "text": "รู้ไหมว่าฉันหน้าตายังไง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5cb8be2-bc31-4040-ab87-ac84923723e9",
+    "data": [
+      {
+        "text": "ฉันดูดีไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b9e1e425-0686-4ab8-8914-b2ea87d144f1",
+    "data": [
+      {
+        "text": "ช่วยหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74313c49-0b2d-4719-902c-0a82eff441de",
+    "data": [
+      {
+        "text": "มีอะไรจะให้ช่วยหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22345c94-fcd6-475a-b66c-2ffe6e3e8aed",
+    "data": [
+      {
+        "text": "ช่วยอะไรหน่อยสิ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1305c03-0a21-46cd-8258-f10b140050cc",
+    "data": [
+      {
+        "text": "ช่วยอะไรหน่อยได้เปล่า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e18a5e8-1203-4aa3-8b38-8495967138fe",
+    "data": [
+      {
+        "text": "ทำอะไรให้หน่อยได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67c48c2f-ee49-41a6-84bb-7237377e37f5",
+    "data": [
+      {
+        "text": "ช่วยฉันหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4122fabe-32c7-49a2-9367-2662f96feea8",
+    "data": [
+      {
+        "text": "ช่วยหน่อยได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b36c573-e2b2-47ca-9cbb-028b490d0694",
+    "data": [
+      {
+        "text": "ขอความช่วยเหลือ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a82b418c-940c-4ef0-8554-8a13051f944c",
+    "data": [
+      {
+        "text": "ช่วยทำอะไรให้หน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e318f789-a8fd-444b-a315-995134353a23",
+    "data": [
+      {
+        "text": "มีปัญหาอยากให้ช่วย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

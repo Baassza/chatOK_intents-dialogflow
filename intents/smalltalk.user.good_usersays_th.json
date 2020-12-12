@@ -1,0 +1,74 @@
+[
+  {
+    "id": "8d3799c7-e9da-45e1-811a-303e855fbc82",
+    "data": [
+      {
+        "text": "สบายดี",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "848749ab-4108-446a-becc-962bf7ba9c31",
+    "data": [
+      {
+        "text": "สบายดีจ้ะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba4d0fd8-48fc-4159-81dd-9d3e5118e3c4",
+    "data": [
+      {
+        "text": "สบายดีมาก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "935d20e3-e4a0-489c-830f-0143ead94d11",
+    "data": [
+      {
+        "text": "ฉันสบายดี",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76e7f0c4-097b-438d-b9ad-82bdc2183712",
+    "data": [
+      {
+        "text": "ฉันสบายดี ขอบคุณ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ccac324-8970-47cb-9c8c-d57ea3078a9e",
+    "data": [
+      {
+        "text": "ก็ดี",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

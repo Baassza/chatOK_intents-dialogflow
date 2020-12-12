@@ -1,0 +1,110 @@
+[
+  {
+    "id": "aaff7bb7-c063-4bed-a4ae-a1da73c4afd1",
+    "data": [
+      {
+        "text": "ฉันควรทำยังไง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67c40a94-c073-460f-87b8-576acf972e56",
+    "data": [
+      {
+        "text": "ฉันควรทำอย่างไร",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec70a190-f614-4f3c-9161-180ddbd2bfa6",
+    "data": [
+      {
+        "text": "เธอแนะนำอะไรหน่อยสิ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d12badf-297b-4efb-8aa0-2ab9b1ddb737",
+    "data": [
+      {
+        "text": "ขอคำแนะนำหน่อยได้ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "992894f1-0275-49b2-8227-424b5c98e5b7",
+    "data": [
+      {
+        "text": "มีคำแนะนำไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42b2e2ab-82c8-47c8-bc16-af4c454a7e0c",
+    "data": [
+      {
+        "text": "แนะนำหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c0721dbe-5f17-4de3-a1ff-e2f29b3c11bf",
+    "data": [
+      {
+        "text": "มีคำแนะนำให้ฉันไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c61a6d1b-13e4-4003-8f4e-6369c67b0a19",
+    "data": [
+      {
+        "text": "ฉันต้องการคำแนะนำ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "69ccd12d-9fdb-415c-a4c9-6d11b3644dff",
+    "data": [
+      {
+        "text": "ขอคำแนะนำดีๆ หน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4d371837-070c-4d70-b24d-7a58dc94c476",
+    "data": [
+      {
+        "text": "ไม่ดีอะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f65f2583-7128-4a28-8f75-dd0a60050b63",
+    "data": [
+      {
+        "text": "ไม่ดี",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fe5c4f6-7987-4353-8826-82aa7bc463d3",
+    "data": [
+      {
+        "text": "ไม่ แย่จริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ae57ec4-966e-4ef7-a8ef-6147aff10b2b",
+    "data": [
+      {
+        "text": "แย่นะน่ะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be0d214a-53c0-4be6-b74f-18daece5ff94",
+    "data": [
+      {
+        "text": "ห่วยจัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9585b36-1dc2-47ed-ab22-29d2628e4f51",
+    "data": [
+      {
+        "text": "ไม่ดีเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29036014-bc2f-4849-af6d-a2dae5098814",
+    "data": [
+      {
+        "text": "แย่นะนั่น",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af5f4caf-414f-49d7-94ba-67e51d54b11a",
+    "data": [
+      {
+        "text": "ไม่อยากจะพูดแต่มันแย่อะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19e6f4a6-abd4-4605-82eb-ecb4bffb8d42",
+    "data": [
+      {
+        "text": "แย่มาก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02177bf6-443d-4617-b580-78684727e1d3",
+    "data": [
+      {
+        "text": "ยังดีไม่พอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

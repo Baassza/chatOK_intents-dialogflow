@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6b477460-307d-4194-925a-13800e06760a",
+    "data": [
+      {
+        "text": "หยุด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bf5d7d0e-82a9-43a7-ad80-b9f1cf53d988",
+    "data": [
+      {
+        "text": "ล้มเลิก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07f70205-0c6c-480d-8b75-2ac4da62686b",
+    "data": [
+      {
+        "text": "เลิกทำ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3e17d32b-a16d-4485-950a-2f9765e769db",
+    "data": [
+      {
+        "text": "ปิด",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "083b74c7-6652-4811-9826-80ab372a779b",
+    "data": [
+      {
+        "text": "ยกเลิก",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5676084e-9729-420f-b240-aed47e93e05c",
+    "data": [
+      {
+        "text": "ไม่เอาแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1343bc7-dad8-4f9b-a959-0ca7cd987dd5",
+    "data": [
+      {
+        "text": "ไม่ต้องแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9940ce0-142a-48d1-942a-12e3127a57f5",
+    "data": [
+      {
+        "text": "ข้าม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0943456e-235f-41d4-8b06-51f8c4828cab",
+    "data": [
+      {
+        "text": "หยุดให้หน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

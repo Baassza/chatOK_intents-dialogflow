@@ -1,0 +1,86 @@
+[
+  {
+    "id": "bdfeed4a-5c80-4c0a-bc47-7de018b72616",
+    "data": [
+      {
+        "text": "ฉันโกรธเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "15188a7c-db75-40d2-840f-477e587e0c93",
+    "data": [
+      {
+        "text": "งอนอยู่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02d4a5df-24b7-4ffb-9dd5-93bb45f9a735",
+    "data": [
+      {
+        "text": "ฉันโกรธแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ee2b9aa-d5cc-4249-8689-aae02d546d4e",
+    "data": [
+      {
+        "text": "โมโหมาก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67bc1b43-0f8d-4ee0-a442-c3fa9e9034a6",
+    "data": [
+      {
+        "text": "โมโห",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50033e02-7152-4102-96ca-602f7ffa2b23",
+    "data": [
+      {
+        "text": "ไม่พอใจ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "852cfa90-8086-4eb9-a147-736a61ec185a",
+    "data": [
+      {
+        "text": "ฉันงอนเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

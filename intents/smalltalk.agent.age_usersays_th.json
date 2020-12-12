@@ -1,0 +1,91 @@
+[
+  {
+    "id": "909cdc2d-3da5-47aa-951a-281370f5d7ac",
+    "data": [
+      {
+        "text": "อยากรู้ว่าเธออายุเท่าไหร่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55be4993-3ca7-45c7-ada4-22363ae6ee00",
+    "data": [
+      {
+        "text": "บอกอายุเธอหน่อย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9764abdb-413d-45bf-aeb1-3bc182ab425e",
+    "data": [
+      {
+        "text": "อายุเท่าไหร่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "bdbaeb89-0753-45e4-8b6f-cd7834dfd76d",
+    "data": [
+      {
+        "text": "อายุเธอล่ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8bfc1ec2-3b65-4818-b414-445d521cebd4",
+    "data": [
+      {
+        "text": "แพลตฟอร์มนี้อายุเท่าไหร่แล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20a0e5c4-3e62-4e1d-ba79-0bf187355958",
+    "data": [
+      {
+        "text": "อายุล่ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9302b54a-ed32-42e7-8d44-285b73bca8d8",
+    "data": [
+      {
+        "text": "21",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ปีใช่ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

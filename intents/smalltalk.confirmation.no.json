@@ -1,0 +1,28 @@
+{
+  "id": "bad82ad9-bb97-4ac7-ac2c-0d6c6f1c3f48",
+  "name": "smalltalk.confirmation.no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "OK ฉันจะทำตามที่คุณขอ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "73dfa3ed-b618-44e1-9460-48328737cdd8",
+    "data": [
+      {
+        "text": "เป็นไงจ๊ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ee5552e-82b8-48ef-965c-b2c3195bdc09",
+    "data": [
+      {
+        "text": "เป็นอะไรไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb73b72d-35c3-4016-add6-dc78b14bf915",
+    "data": [
+      {
+        "text": "เช้านี้เป็นไงบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a90ee70e-4210-4c27-b630-8abf19f54472",
+    "data": [
+      {
+        "text": "รู้สึกไงบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38188ce2-27f8-4a8c-8db8-96f67736dba9",
+    "data": [
+      {
+        "text": "ไม่มีปัญหาไรนะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0fb23c1e-6eaf-4b51-abf3-2963bea72797",
+    "data": [
+      {
+        "text": "เป็นไงบ้างเอ่ย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f8441fb-f2df-4223-ba42-5399c83d43e5",
+    "data": [
+      {
+        "text": "เป็นไงบ้าง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a90c6dbf-127e-42c0-9811-103dce2323bf",
+    "data": [
+      {
+        "text": "ทุกอย่างดีอยู่นะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abfc4bc3-7b37-4905-915f-477e8b03cb05",
+    "data": [
+      {
+        "text": "เป็นไงบ้างวันนี้",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f0e8da9-2f8e-42b0-a5f0-9b8c431471c0",
+    "data": [
+      {
+        "text": "โอเคอยู่ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

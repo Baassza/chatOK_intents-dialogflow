@@ -1,0 +1,187 @@
+{
+  "id": "5d394683-b7e5-4b44-9ee3-4e823c2adce8",
+  "name": "smalltalk.emotions.ha_ha",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.emotions.ha_ha",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0165e2cc-a821-451f-87ea-e63a2001a894",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "555555555555555555"
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "speech": [
+            "Yeah, I crack myself up too.",
+            "Laughter is good for you. Keep it up.",
+            "See? Now we\u0027re having fun.",
+            "You have a great laugh."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

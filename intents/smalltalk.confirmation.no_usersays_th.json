@@ -1,0 +1,98 @@
+[
+  {
+    "id": "6a2fab63-4df6-4596-804c-5a016f4277b4",
+    "data": [
+      {
+        "text": "ไม่เอานะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96df4879-bf7f-4b7b-9237-f5ae9ba303f4",
+    "data": [
+      {
+        "text": "ฉันไม่อยากทำ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98287f89-cc5a-4cd9-91e6-769a2d240062",
+    "data": [
+      {
+        "text": "ไม่สนใจ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d3371b32-559f-465b-a97b-9b9361601d17",
+    "data": [
+      {
+        "text": "ไม่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43bf37de-fcf4-4b67-bd4c-f9620313bbb7",
+    "data": [
+      {
+        "text": "ไม่ทำนะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16de06d7-5ac6-4a04-a64a-480685992e3a",
+    "data": [
+      {
+        "text": "ฉันไม่เห็นด้วย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa746478-03b1-4e44-9525-ac973530da30",
+    "data": [
+      {
+        "text": "ไม่ล่ะ ขอบคุณ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeb7065f-656d-4386-a4e8-a5998f049b59",
+    "data": [
+      {
+        "text": "ไม่เอา",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

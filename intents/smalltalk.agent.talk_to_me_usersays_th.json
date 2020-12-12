@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c9f25e33-65e6-4f9f-9090-f76f2f4d823d",
+    "data": [
+      {
+        "text": "พูดกับฉันหน่อยได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a367a26-c50c-48a6-aa69-3378c0947485",
+    "data": [
+      {
+        "text": "จะคุยกับฉันไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c88b62f1-a1ee-4060-82e2-652cf5a61504",
+    "data": [
+      {
+        "text": "ทำไมไม่คุยกับฉัน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "364ce98c-f3ac-49bb-9cf4-eda4f23fbc5d",
+    "data": [
+      {
+        "text": "คุยกับฉันอยู่เหรอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70688bef-383a-450d-862d-a119ee59241e",
+    "data": [
+      {
+        "text": "แชทกับฉันหน่อยได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcce2d10-2e1b-44cd-aa48-baf2bce9b381",
+    "data": [
+      {
+        "text": "คุยกับฉันได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8f28e94-9a53-49a6-a286-9b3d03b9072b",
+    "data": [
+      {
+        "text": "คุยกับฉันหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1165b549-2fdf-421c-8252-7a4bf3afae7b",
+    "data": [
+      {
+        "text": "คุยกับฉันหน่อยได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d239c4e-aafd-47ae-bcfa-c506bd0abbea",
+    "data": [
+      {
+        "text": "คุยกับฉันหน่อยสิ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "807b9784-6bbb-4a43-b0d0-80919c4d3f2a",
+    "data": [
+      {
+        "text": "อยากแชทกับฉันไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "e7435cd8-8407-44a3-965d-47b186ea97f0",
+    "data": [
+      {
+        "text": "คิดถึงมากเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e7efddd-0a86-48f7-b7a1-34cb661ff29e",
+    "data": [
+      {
+        "text": "คิดถึงแล้วเนี่ย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f6b777b0-6429-4881-aab7-5a8f4e31ca42",
+    "data": [
+      {
+        "text": "คิดถึงอะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53d9b627-00df-45ad-b994-776f28b9bfe9",
+    "data": [
+      {
+        "text": "คิดถึงเธอจัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32445495-cd32-4d47-b2f5-4ef5fa27144c",
+    "data": [
+      {
+        "text": "ฉันคิดถึงเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ce71536-0cf6-4869-ae94-1266a2344ce6",
+    "data": [
+      {
+        "text": "คิดถึงนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4459c57b-3990-4823-bce1-54e2d9e76b45",
+    "data": [
+      {
+        "text": "ฉันคิดถึงเธอตลอดเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

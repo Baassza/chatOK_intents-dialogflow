@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2f7feb5b-504e-46b8-b46d-2eaa0d0ee6c1",
+    "data": [
+      {
+        "text": "ทดสอบแชทบอตอยู่",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c23f9698-b830-4622-9264-0519af0f2500",
+    "data": [
+      {
+        "text": "ฉันอยากทดสอบเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99bac10e-8b66-435b-923f-2412d9fc9cce",
+    "data": [
+      {
+        "text": "กำลังทดสอบ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f568415b-1e90-4f50-819e-996a358a7024",
+    "data": [
+      {
+        "text": "ขอทดสอบเธอหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56f7b920-3ed4-463c-90ac-d09da06097c7",
+    "data": [
+      {
+        "text": "ขอทดสอบเธอได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a02302f-6dfb-4b3c-9055-f5f99474254f",
+    "data": [
+      {
+        "text": "ทดสอบเฉยๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aac4075-35c8-4410-8eae-1cce91e234db",
+    "data": [
+      {
+        "text": "ทดสอบ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b9a30d8-6062-400c-b428-a16c4339adc8",
+    "data": [
+      {
+        "text": "ฉันทดสอบเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

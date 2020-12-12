@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a774bee1-c027-483d-8c39-3226c364c594",
+    "data": [
+      {
+        "text": "งาน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64158b56-d8c1-4b07-ac04-25d60bf7f7f2",
+    "data": [
+      {
+        "text": "ไม่มีงาน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7fbbc78-f780-4947-8a9a-56db5f5ec152",
+    "data": [
+      {
+        "text": "เรียน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3831c4e-b3e3-4824-aa23-b628516be52c",
+    "data": [
+      {
+        "text": "ทำงาน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

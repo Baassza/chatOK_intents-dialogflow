@@ -1,0 +1,122 @@
+[
+  {
+    "id": "99bd1e86-03b0-4a94-80e9-293f130011ba",
+    "data": [
+      {
+        "text": "นั่นเรื่องจริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e654a65-6b33-401c-a92c-9b14c8ee1c4f",
+    "data": [
+      {
+        "text": "เรื่องจริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9320f81b-d504-4d9c-9c33-7067b4a08b6d",
+    "data": [
+      {
+        "text": "จริงนะน่ะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f832c709-90b5-4aa9-b0ef-b989a94d48ef",
+    "data": [
+      {
+        "text": "ใช่เลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca53548b-6f30-420c-8b71-adefaf3daf97",
+    "data": [
+      {
+        "text": "พูดอีกก็ถูกอีก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2b8becd-be0a-48b8-abcd-37f2b8ade939",
+    "data": [
+      {
+        "text": "จริงเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43fe703c-6c55-4aa0-9814-91414f48037e",
+    "data": [
+      {
+        "text": "ถูกต้องเลย",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c16ef72-7d61-4e71-aaca-cde985f6ca26",
+    "data": [
+      {
+        "text": "จริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17f6929b-68a5-425e-becc-9b15a58c1708",
+    "data": [
+      {
+        "text": "เรื่องจริงนะน่ะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eba562bd-31da-47f3-82b2-754bf7adb3e1",
+    "data": [
+      {
+        "text": "เธอพูดถูก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

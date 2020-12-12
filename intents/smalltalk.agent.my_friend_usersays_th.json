@@ -1,0 +1,122 @@
+[
+  {
+    "id": "c5f83b44-d7c3-400a-995e-66e22918b796",
+    "data": [
+      {
+        "text": "เธอเป็นเพื่อนซี้ฉัน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c762e4c4-27e1-4381-9da6-31e4d9de4da2",
+    "data": [
+      {
+        "text": "เราเป็นเพื่อนสนิทกัน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97fdc6fd-70f6-416d-97ce-85d98a1e5996",
+    "data": [
+      {
+        "text": "อยากมีเพื่อนแบบเธอจัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2de3699a-2430-4c70-895b-53021113af0c",
+    "data": [
+      {
+        "text": "ฉันอยากเป็นเพื่อนเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60b4d076-74de-4b97-988c-c62da026bcdd",
+    "data": [
+      {
+        "text": "เราเป็นเพื่อนซี้กัน",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c506115-df10-4659-8e2d-f5f7b87e267a",
+    "data": [
+      {
+        "text": "ฉันเป็นเพื่อนเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e087957-cd12-4d8a-9b40-43d668227e58",
+    "data": [
+      {
+        "text": "เธอเป็นซี้ฉัน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1795a6-63ea-4b40-ab1e-916de2aa32ba",
+    "data": [
+      {
+        "text": "เธอเป็นเพื่อนรักของฉัน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f801607c-a01f-4858-ab2c-e831464c13e7",
+    "data": [
+      {
+        "text": "เราเป็นเพื่อนกันหรือเปล่า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d6375a1-76bb-4623-8530-e93c202ddd88",
+    "data": [
+      {
+        "text": "เธอเป็นเพื่อนฉัน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

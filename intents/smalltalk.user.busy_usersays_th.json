@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c3c545d7-aac7-4880-bf03-a32830bc7b50",
+    "data": [
+      {
+        "text": "งานฉันล้นมือ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c981e3f2-f77a-4218-9056-e984262583ff",
+    "data": [
+      {
+        "text": "มีงานต้องทำ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "460a5297-7c20-4f03-8572-c557f7206355",
+    "data": [
+      {
+        "text": "ฉันยุ่งแค่ไหน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a76b323-5d9b-48f7-9160-f69abdb7e345",
+    "data": [
+      {
+        "text": "ไม่มีเวลาสนใจเรื่องนี้",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "098e8f03-18d6-43d7-a764-70991c6e7b1b",
+    "data": [
+      {
+        "text": "ฉันมีอะไรต้องทำเยอะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2174c665-b032-4c02-a5c2-be0d732f2817",
+    "data": [
+      {
+        "text": "ทำงานอยู่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78e09dd8-7d4b-4b62-b32b-a96f1272898d",
+    "data": [
+      {
+        "text": "ไม่มีเวลา",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b5a45922-e0d2-4cea-9b21-078ec99703d1",
+    "data": [
+      {
+        "text": "ฉันยุ่งอยู่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7924371-5436-46b2-b779-d2f44c6ad16b",
+    "data": [
+      {
+        "text": "ฉันยุ่งมาก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

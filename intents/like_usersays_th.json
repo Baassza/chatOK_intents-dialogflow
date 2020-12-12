@@ -1,0 +1,62 @@
+[
+  {
+    "id": "b57864db-99a5-4207-ab83-361c805d3ad8",
+    "data": [
+      {
+        "text": "ความชอบ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa8318ac-a776-44cb-b65b-f7ca3fbcc3ea",
+    "data": [
+      {
+        "text": "ชอบทำอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a15dadb-4430-4e73-aa99-83cc334e13e2",
+    "data": [
+      {
+        "text": "ชอบไปเที่ยว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4b7ff08b-9421-42bb-a442-48396987aad2",
+    "data": [
+      {
+        "text": "ชอบกินอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2fafcd66-063d-4979-9792-70ae34ca79ea",
+    "data": [
+      {
+        "text": "ชอบอะไร",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "id": "bc95fbd0-def8-4ae4-98df-3b0015ec57b1",
+  "name": "smalltalk.confirmation.cancel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.confirmation.cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "OK ฉันจะหยุดให้"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

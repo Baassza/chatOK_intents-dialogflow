@@ -1,0 +1,110 @@
+[
+  {
+    "id": "5ded765e-850f-406e-b8af-e3d843d444dd",
+    "data": [
+      {
+        "text": "ฉันไม่มีความสุข",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8345ba8a-1954-45d5-8e5a-22b42a3073ce",
+    "data": [
+      {
+        "text": "รู้สึกเศร้าจัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9f65cd2-8e74-4ac2-a15f-54dff58a21f4",
+    "data": [
+      {
+        "text": "ไม่มีความสุขเลย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce1f1468-e682-4a27-9b63-a1ec9a8699e3",
+    "data": [
+      {
+        "text": "อารมณ์เสีย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b83f1e00-0580-475a-998c-bf050085a377",
+    "data": [
+      {
+        "text": "เศร้าจัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "420a3ecf-a89b-4b0e-879b-44d8dbc65bb7",
+    "data": [
+      {
+        "text": "ฉันเสียใจ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f30c89-fcb5-400b-9158-b7582360402c",
+    "data": [
+      {
+        "text": "หดหู่จัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76ac6b23-10ab-4c7a-a2ba-ef55657b4893",
+    "data": [
+      {
+        "text": "วันนี้เจอแต่เรื่องไม่ดี",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcb94c2a-3caf-4fb7-a132-c4f9530cbe89",
+    "data": [
+      {
+        "text": "อยากร้องไห้",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

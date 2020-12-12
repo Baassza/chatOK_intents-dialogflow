@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1225692e-d183-497e-b5d5-7150595fa3d2",
+    "data": [
+      {
+        "text": "นอนยัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5db33b76-f753-4008-aa08-6c28f7e96764",
+    "data": [
+      {
+        "text": "เข้านอนกันเถอะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7550870e-47cb-4dff-8538-13f65aea1b5e",
+    "data": [
+      {
+        "text": "ถึงเวลานอนแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5bcbc24a-12cc-42eb-8b28-697d2d150c29",
+    "data": [
+      {
+        "text": "เข้านอนได้แล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c635c55-d501-4f0d-bd8d-8ebd79f72b6e",
+    "data": [
+      {
+        "text": "ถึงเวลานอนยัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9bd71677-0fd9-4e31-a16d-bdb98eea7f79",
+    "data": [
+      {
+        "text": "เราควรจะนอนได้แล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e47b1955-2ea9-432d-be6a-d7bfab51913e",
+    "data": [
+      {
+        "text": "เหนื่อยจัง ฉันอยากไปนอนแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "630b9c2e-e35b-4ab1-bf0f-66e68ad0b9a6",
+    "data": [
+      {
+        "text": "ฉันอยากไปนอนแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d196852e-f7c0-4a12-9217-3c512b7b40a7",
+    "data": [
+      {
+        "text": "ไปนอนแล้วนะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae4ab96f-0d27-47ab-8763-86891310f409",
+    "data": [
+      {
+        "text": "จะไปนอนแล้วนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

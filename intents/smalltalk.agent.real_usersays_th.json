@@ -1,0 +1,110 @@
+[
+  {
+    "id": "ae6e81ad-0aba-4e17-b090-539fce78db06",
+    "data": [
+      {
+        "text": "เธอไม่ใช่ของปลอม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05f39d5c-8e7c-471c-b60c-6529ffd906fc",
+    "data": [
+      {
+        "text": "ฉันไม่คิดว่าเธอเป็นของปลอม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32cdad4c-ae26-4c36-bda0-6ea682548601",
+    "data": [
+      {
+        "text": "เธอมีจริงไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "565429e4-e350-415d-ae6e-fab8c1961a8c",
+    "data": [
+      {
+        "text": "เธอเป็นคนจริงเปล่า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e62c5aa7-7b00-4974-aa1f-037026901faa",
+    "data": [
+      {
+        "text": "ฉันว่าเธอมีจริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff8163e7-35f6-46ea-a1ca-acde3f12c4d1",
+    "data": [
+      {
+        "text": "ฉันว่าเธอมีจริงนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cdeb838-fca0-4d21-8e4f-587df3ba2a8a",
+    "data": [
+      {
+        "text": "ดีใจที่เธอมีจริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d4df0c4-5909-48ce-82ef-ae965f6e4f73",
+    "data": [
+      {
+        "text": "เธอมีจริง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00ee6551-401d-42ab-932a-b3db00ad33f7",
+    "data": [
+      {
+        "text": "เธอมีจริงนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

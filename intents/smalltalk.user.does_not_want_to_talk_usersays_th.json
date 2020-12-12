@@ -1,0 +1,86 @@
+[
+  {
+    "id": "0e6e26ec-e39b-4caa-97c3-e87304b3912e",
+    "data": [
+      {
+        "text": "ไม่มีอารมณ์แชท",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88220518-5e07-48a2-8eda-5e9e9e6aa2b9",
+    "data": [
+      {
+        "text": "ยังไม่อยากคุยตอนนี้",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fede5c99-4b2e-4eb9-90be-48586f663f6a",
+    "data": [
+      {
+        "text": "หยุดคุยก่อนแป๊บนึงนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74a5fd7d-14da-481d-ad83-d2f6addcf403",
+    "data": [
+      {
+        "text": "ไม่อยากคุย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71b550a6-4308-48ed-b403-b60cc3ce8d31",
+    "data": [
+      {
+        "text": "เราอยู่เงียบๆ กันดีกว่า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f324c983-779b-420b-8d77-7641046149eb",
+    "data": [
+      {
+        "text": "ไม่อยากคุยกับเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e01e38d-7acd-4c9e-94f5-33291cc3eebf",
+    "data": [
+      {
+        "text": "ฉันจะไม่คุยกับเธอแล้ว",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

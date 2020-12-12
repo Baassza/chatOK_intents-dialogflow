@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5b543128-8613-4088-921d-4d01c93ba00f",
+    "data": [
+      {
+        "text": "มาแล้วจ้า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "330bd04a-2cec-472a-8758-2d998caa63d1",
+    "data": [
+      {
+        "text": "ฉันอยู่ตรงนี้แหละ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f401d22-4b26-485f-8007-38ba78ee6e03",
+    "data": [
+      {
+        "text": "ก็อยู่ตรงนี้อยู่แล้ว",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43478147-1e28-4f1b-a6e9-9977fade3935",
+    "data": [
+      {
+        "text": "ฉันอยู่นี่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce537174-4ed4-4a5b-9a0e-7c8e4fc62084",
+    "data": [
+      {
+        "text": "บอกได้ไหมว่าฉันอยู่ตรงนี้หรือเปล่า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

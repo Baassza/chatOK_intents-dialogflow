@@ -1,0 +1,98 @@
+[
+  {
+    "id": "6b4d67b2-3224-474d-9b87-7c13dc13ba8f",
+    "data": [
+      {
+        "text": "เธอยังอยู่หรือเปล่า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91f5f77f-b240-45db-ab2d-91fb0198b183",
+    "data": [
+      {
+        "text": "เธออยู่ที่นี่ใช่ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64ac6f49-9b62-43da-8dc6-19e1edf764d7",
+    "data": [
+      {
+        "text": "เธออยู่ที่นี่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1f521db-4bc4-4fd0-ace1-1344854aa971",
+    "data": [
+      {
+        "text": "อยู่หรือเปล่า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e475e3b0-b8c5-4579-a97b-e4b5c320687a",
+    "data": [
+      {
+        "text": "อยู่ใกล้ฉันหรือเปล่า",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "294e7b0e-20a3-4203-b286-e7206e6c3a0a",
+    "data": [
+      {
+        "text": "ยังอยู่ไหม",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87fc7ce9-86be-4c5d-bf2d-59fc3ac1e89b",
+    "data": [
+      {
+        "text": "ยังอยู่เปล่า",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a044989-e004-42b1-a46a-c144e29ec9d2",
+    "data": [
+      {
+        "text": "ยังอยู่กับฉันใช่ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

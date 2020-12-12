@@ -1,0 +1,62 @@
+[
+  {
+    "id": "eccec981-cdc4-428c-a5e5-6db512b3bf34",
+    "data": [
+      {
+        "text": "ค้าบ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d25f896a-958c-49a6-bf27-7f4cc8323a3c",
+    "data": [
+      {
+        "text": "ครับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b83800b-5ab4-4899-ac60-81272344617e",
+    "data": [
+      {
+        "text": "คับ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f6e438c-6cb6-44c0-b56c-22cf5f5c8483",
+    "data": [
+      {
+        "text": "คะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e612ef1-0f56-4b7c-96dc-b37b6bf959c9",
+    "data": [
+      {
+        "text": "ค่ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

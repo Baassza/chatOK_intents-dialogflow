@@ -1,0 +1,62 @@
+[
+  {
+    "id": "97a3580a-0caa-4590-a646-003eb8a9cae2",
+    "data": [
+      {
+        "text": "นอนอยู่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "420b0bbb-e3e1-41fd-966d-7e28d92d70e6",
+    "data": [
+      {
+        "text": "ง่วงจัง",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71e2e218-d9b0-42f1-8af6-0643d8407743",
+    "data": [
+      {
+        "text": "จะยืนหลับอยู่แล้ว",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a284221f-bf43-49bc-80ae-5341135def4a",
+    "data": [
+      {
+        "text": "จะหลับแล้วเนี่ย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a301ff1c-d16e-4e41-a8f5-027593546d75",
+    "data": [
+      {
+        "text": "อยากนอนแล้ว",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

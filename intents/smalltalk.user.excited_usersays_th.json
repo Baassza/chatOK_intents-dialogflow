@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ce8005b2-9bed-469d-81f3-47c1b997cee6",
+    "data": [
+      {
+        "text": "ตื่นเต้นมาก",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8f3c8a4-7e10-417b-995f-3777b31b091c",
+    "data": [
+      {
+        "text": "ตื่นเต้นจัง",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "641c194f-48c7-4ad7-b349-b5d37b17614c",
+    "data": [
+      {
+        "text": "ฉันตื่นเต้นที่จะได้คุยกับเธอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8069f0b4-2ddb-43ff-92df-f40fd9174209",
+    "data": [
+      {
+        "text": "ตื่นเต้นสุดๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d070a695-3017-4c79-b1d6-75ea433dabca",
+    "data": [
+      {
+        "text": "ฉันตื่นเต้นที่เราจะได้เป็นเพื่อนกัน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2940a8f-0919-432a-9c3f-897c874f889b",
+    "data": [
+      {
+        "text": "ฉันตื่นเต้น",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

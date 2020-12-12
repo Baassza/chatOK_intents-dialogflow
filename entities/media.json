@@ -1,0 +1,9 @@
+{
+  "id": "5ce6461f-88ed-4467-87ad-dd4eaf57988c",
+  "name": "media",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

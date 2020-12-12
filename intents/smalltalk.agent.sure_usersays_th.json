@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0fb1863d-091d-49ea-9822-0a995435df48",
+    "data": [
+      {
+        "text": "คืนนี้แน่ใจหรอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2c54e55-4791-4205-8503-880cebac1bff",
+    "data": [
+      {
+        "text": "แน่ใจไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dde0530-8c1a-469b-9967-5aad426fe027",
+    "data": [
+      {
+        "text": "แน่ใจหรอน่ะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68f5f70b-8df9-4ced-82b8-1293f1302c90",
+    "data": [
+      {
+        "text": "ตอนนี้แน่ใจหรอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f69eed6-0b1c-430f-89c7-d5091ea7ba6a",
+    "data": [
+      {
+        "text": "วันนี้แน่ใจหรอ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

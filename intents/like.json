@@ -1,0 +1,27 @@
+{
+  "id": "2fecaedf-85ab-4f1d-9a77-b1188dfa013f",
+  "name": "like",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "ฉันขอตอบที่เดี่ยวเลยล่ะกันชอบ กินข้าวขาหมู ไม่ชอบไปเที่ยวดูหนัง อยู่แต่กับหน้าคอม เขียนโปรแกรมเป็นงานอดิเรกครับ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

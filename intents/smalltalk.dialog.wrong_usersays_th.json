@@ -1,0 +1,122 @@
+[
+  {
+    "id": "025789a5-92ed-496e-a8ff-b400b8f68ac2",
+    "data": [
+      {
+        "text": "ไม่ใช่นะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f99be0c6-4b30-4151-aa57-e030cc5d5415",
+    "data": [
+      {
+        "text": "ผิดแล้ว",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "adab8002-1f56-44f2-9d4e-fb97dc6d1bad",
+    "data": [
+      {
+        "text": "ใช่ที่ไหน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db452e30-d7ec-4d5a-a9a8-dc27fcbb2e69",
+    "data": [
+      {
+        "text": "ไม่ใช่ๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "987b30fc-60b1-4223-93fc-a8a3f0e7e2ba",
+    "data": [
+      {
+        "text": "ไม่ๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ece71e2-d14e-4bf5-b0a2-f5a4c08d329f",
+    "data": [
+      {
+        "text": "ไม่ได้ถามเรื่องนั้น",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec615c46-d5fa-4aba-8309-7e6effe2b359",
+    "data": [
+      {
+        "text": "มั่วแล้ว",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee15667b-841e-4f58-8029-213fc850891b",
+    "data": [
+      {
+        "text": "ไม่ใช่",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79cd149b-faff-449f-babd-1bc0a000f84e",
+    "data": [
+      {
+        "text": "ไม่ถูกนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76d7f8d1-fe7d-493d-9665-13991d51b8ba",
+    "data": [
+      {
+        "text": "ถูกที่ไหน",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

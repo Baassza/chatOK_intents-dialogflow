@@ -1,0 +1,27 @@
+{
+  "id": "ad5f4fd2-fe63-4355-aa96-b7ead35ab7ff",
+  "name": "do",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "กำลังอยู่อยู่เป็นเพื่อนคุณครับ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

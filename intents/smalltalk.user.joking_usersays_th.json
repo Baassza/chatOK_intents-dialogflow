@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f433aef0-ae74-451d-afc5-ad6b8d6ef70b",
+    "data": [
+      {
+        "text": "หยอกๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba661d9a-dc02-4c00-8140-0b699da1c53b",
+    "data": [
+      {
+        "text": "ล้อเล่นๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0c8917a-9bc3-46c1-ba23-5d2bde48668b",
+    "data": [
+      {
+        "text": "มุกน่ะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95f999ca-9f3f-4660-ac34-cbcb077036d6",
+    "data": [
+      {
+        "text": "หยอกเฉยๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5125b25e-3aca-49e1-a2a5-72e70cb96af4",
+    "data": [
+      {
+        "text": "ฉันล้อเล่น",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b20ee4f7-851c-4b67-9cc9-18612ad83be2",
+    "data": [
+      {
+        "text": "ล้อเล่น",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "667c95c9-d72f-4831-b4ed-a6f05ddebdb5",
+    "data": [
+      {
+        "text": "ล้อเล่นนะ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dac9f0c9-3e82-4742-a0ad-cedf9e617873",
+    "data": [
+      {
+        "text": "เล่นมุกเฉยๆ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3b8d7c0-40d1-47c6-9877-d00c004df219",
+    "data": [
+      {
+        "text": "ฉันหยอกเธอเล่นเฉยๆ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "999474ac-e828-46d7-ab8d-d856ebf3191a",
+    "data": [
+      {
+        "text": "มุกขำๆ น่ะ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "588b3141-20e9-4520-afc2-f6809ac509c7",
+    "data": [
+      {
+        "text": "ตอบฉันที",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd198f90-7f30-41b2-981a-995d113ec4c7",
+    "data": [
+      {
+        "text": "บอกคำตอบมา",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7baeb4a5-1b6f-4134-bd60-8236f8318356",
+    "data": [
+      {
+        "text": "ตอบคำถามฉันมา",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdf87eba-0fad-4968-8f53-9885782a372f",
+    "data": [
+      {
+        "text": "ตอบมาเร็ว",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "184d5222-ca07-4967-b412-d1bd4375cf20",
+    "data": [
+      {
+        "text": "ตอบคำถาม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ffd4d4f-74a2-4d39-8dd6-e4b28159f0e8",
+    "data": [
+      {
+        "text": "ตอบมา",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60a35093-4c05-41f7-98e4-839958bf206d",
+    "data": [
+      {
+        "text": "ตอบสิ",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a4b812e-b37f-4293-97a1-b93b564ac381",
+    "data": [
+      {
+        "text": "ตอบฉันหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8584e7a2-7c6e-459e-abe7-13f0b8f65f77",
+    "data": [
+      {
+        "text": "ตอบคำถามฉันหน่อย",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d378e48-d208-4b06-8a7a-e380ae3082a3",
+    "data": [
+      {
+        "text": "ตอบหน่อยได้ไหม",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

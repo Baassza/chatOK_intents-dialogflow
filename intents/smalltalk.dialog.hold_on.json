@@ -1,0 +1,28 @@
+{
+  "id": "7d56bcba-aec1-4c1f-9862-0c7a4b9f9a9e",
+  "name": "smalltalk.dialog.hold_on",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.hold_on",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "th",
+          "speech": "ฉันจะรอนะ"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
